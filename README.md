@@ -5,7 +5,7 @@
      Este sistema consiste en una partícula confinada a un conjunto discreto de posiciones en una línea. El simulador permite especificar el número de posiciones y un vector ket de estado asignando las amplitudes.
      - **Calcular la probabilidad de encontrar la partícula en una posición particular.**
      - **Calcular la probabilidad de transitar de un vector ket inicial a otro vector ket después de la observación.**
-
+   
 ### 2. **Retos de Programación del Capítulo 4:**
     - **Amplitud de Transición:** 
       Calcular la probabilidad de transitar de un estado inicial a un estado final dado dos vectores ket.
@@ -30,4 +30,5 @@
 # Ejecución:
 
 Los resultados de los códigos se muestran debajo de cada enunciado. Si desea ver el código completo, simplemente expándalo y estará disponible. En caso de no mostrarse, seleccione el código y presione Shift + Enter.
+
 
